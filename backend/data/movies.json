@@ -1,0 +1,53 @@
+{
+  "movies": [
+    {
+      "id": "213976be-9157-4daa-992b-5b93f68540a6",
+      "title": "The Wolf of Wall Street",
+      "year": "2013",
+      "genre": ["Biography", "Comedy", "Crime"],
+      "rating": "9.4"
+    },
+    {
+      "id": "3711087e-2863-427e-86d8-1548c3e7b0db",
+      "title": "The Avengers: Infinity war",
+      "year": "2020",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "rating": "7.9"
+    },
+    {
+      "id": "131c8241-fcae-4425-94b7-e410fb285018",
+      "title": "Mission Impossible: Rouge Nation",
+      "year": "2015",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "rating": "7.9"
+    },
+    {
+      "id": "c3a168c2-8168-4f3c-887a-17bb8d0bde0a",
+      "title": "Dark",
+      "year": "2020",
+      "genre": ["Gizem", "Bilim Kurgu"],
+      "rating": "9"
+    },
+    {
+      "id": "fa1c528e-4c75-4535-bb64-62f546af3ae5",
+      "title": "Inception",
+      "year": "2010",
+      "genre": ["Action", "Sci-Fi", "Thriller"],
+      "rating": "8.8"
+    },
+    {
+      "id": "7f985b56-94b3-4b12-8e6e-74b0b1e184e5",
+      "title": "The Dark Knight",
+      "year": "2008",
+      "genre": ["Action", "Crime", "Drama"],
+      "rating": "9.0"
+    },
+    {
+      "title": "The Matrix",
+      "genre": ["Bilim Kurgu", " Macera", " Aksiyon"],
+      "rating": "9",
+      "year": "2004",
+      "id": "07621745-69f5-41b0-8207-a1988214e71b"
+    }
+  ]
+}
